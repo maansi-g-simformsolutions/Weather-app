@@ -5,7 +5,6 @@ Weather app made using react, OpenWeather map API and Geolocation service
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is a practice for Hooks
 
 ## Available Scripts
 
